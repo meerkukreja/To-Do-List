@@ -1,0 +1,20 @@
+Dom tree 
+
+get secure nhi rehta
+post secure rehta
+defautlt method get hai
+
+post alag se packet bnakr bejta hai
+
+creating elements using js most imp topic
+
+
+DEL DOM ME MEMORY SE BHI DEL HO JAYEGA
+
+EVENT BUBLING UP:-  IF BUTTON PE CLICK KIA TOH DHONO BREGE IF NICHE KIA TOH SINGLE HGA
+
+EVENT DELEGATION IMP TOPIC 
+
+session storage 
+comment krne ke bd ghum ho jata
+application me save rehta h
